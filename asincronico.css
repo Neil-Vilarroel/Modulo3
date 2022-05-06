@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(148, 131, 36);
+}
+.container{
+    text-align: center;
+}
+.chiste {
+    text-align: center;
+    padding: 10px;
+    border: 2px black dashed;
+}    
